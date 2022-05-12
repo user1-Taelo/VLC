@@ -1,0 +1,20 @@
+.root{
+    -fx-background-color: black;
+    -fx-padding: 10;
+}
+.mediaview{
+    -fx-alignment: center;
+}
+
+#playee{
+    -fx-padding: 5;
+}
+
+#playtime{
+    -fx-padding: 10 170;
+    -fx-progress-color: red;
+}
+
+#btnplay{
+    -fx-padding: 20 10 0 0;
+}
